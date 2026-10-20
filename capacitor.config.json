@@ -1,0 +1,20 @@
+{
+  "appId": "com.yourcompany.daylist.demo",
+  "appName": "Daylist (Demo)",
+  "webDir": "www",
+  "backgroundColor": "#efe9ff",
+  "android": {
+    "allowMixedContent": false
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 1200,
+      "backgroundColor": "#ff4f8b",
+      "showSpinner": false
+    },
+    "LocalNotifications": {
+      "smallIcon": "ic_stat_icon",
+      "iconColor": "#ff4f8b"
+    }
+  }
+}
